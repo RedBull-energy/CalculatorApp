@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bulathammatov/RiderProjects/App3/App3/App3.Droid/App3.Droid.csproj": {}
+  },
+  "projects": {
+    "/Users/bulathammatov/RiderProjects/App3/App3/App3.Droid/App3.Droid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bulathammatov/RiderProjects/App3/App3/App3.Droid/App3.Droid.csproj",
+        "projectName": "App3.Droid",
+        "projectPath": "/Users/bulathammatov/RiderProjects/App3/App3/App3.Droid/App3.Droid.csproj",
+        "packagesPath": "/Users/bulathammatov/.nuget/packages/",
+        "outputPath": "/Users/bulathammatov/RiderProjects/App3/App3/App3.Droid/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/bulathammatov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid13.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid13.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid13.0": {
+          "dependencies": {
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
